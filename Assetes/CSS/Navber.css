@@ -1,0 +1,55 @@
+* {
+  font-family: 'Montserrat', sans-serif;
+}
+/* navber-section */
+.facebook {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 44px;
+  font-size: 22px;
+}
+.facebook:hover {
+  color: white;
+  background-color: #47a1f2;
+  transition: 1.3s;
+}
+.instragram {
+  border-radius: 50%;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  line-height: 42px;
+  font-size: 22px;
+}
+.instragram:hover {
+  color: white;
+  transition: 1.3s;
+  background: #f09433;
+  background: -moz-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  background: -webkit-linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+  background: linear-gradient(
+    45deg,
+    #f09433 0%,
+    #e6683c 25%,
+    #dc2743 50%,
+    #cc2366 75%,
+    #bc1888 100%
+  );
+}
+/* navber-section */
